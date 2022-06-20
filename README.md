@@ -6,7 +6,7 @@ The circle has the shape of a ring. With the help of a turtle in Python turtle, 
 This repository is for my midterm output in CCS 221 subject. This contains code to create a semicircle pattern using Python Turtle Graphics.
 
 # Result
-![Result]()
+![Result](https://github.com/jmabogador/epic1-midterm-output/blob/main/SemicirclePattern_Result.png)
 
 ## References
 > [turtle — Turtle graphics](https://docs.python.org/3/library/turtle.html)<br />
