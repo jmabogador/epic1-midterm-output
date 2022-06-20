@@ -8,6 +8,6 @@ This repository contains my midterm output for the CCS 221 subject. This contain
 # Result
 ![Result](https://github.com/jmabogador/epic1-midterm-output/blob/main/SemicirclePattern_Result.png)
 
-## References
+# References
 > [turtle — Turtle graphics](https://docs.python.org/3/library/turtle.html)<br />
 > [YouTube](https://www.youtube.com/)
